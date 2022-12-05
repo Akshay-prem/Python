@@ -7,5 +7,5 @@ Learning to code stage by stage .
  Given two numbers num1 and num2. The task is to write a Python program to find the addition of these two numbers.
 3. Maximum of two numbers.
  To find the maximum of two numbers,use max function
-4. Recieving input from cmd in python
+4. Recieving input from cmd in python.
  Use var= input("var identification statement")
