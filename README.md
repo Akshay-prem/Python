@@ -11,3 +11,5 @@ Learning to code stage by stage .
  Use var= input("var identification statement")
 5. Factorial of a number.
  Use math.factorial(num) function in need and import math library.
+6. Calculating simple interest
+ Simple interest formula is given by: Simple Interest = (P x T x R)/100 Where, P is the principal amount T is the time and R is the rate
