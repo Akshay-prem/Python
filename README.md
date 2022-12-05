@@ -9,3 +9,5 @@ Learning to code stage by stage .
  To find the maximum of two numbers,use max function
 4. Recieving input from cmd in python.
  Use var= input("var identification statement")
+5. Factorial of a number.
+ Use math.factorial(num) function in need and import math library.
