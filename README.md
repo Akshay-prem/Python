@@ -12,4 +12,12 @@ Learning to code stage by stage .
 5. Factorial of a number.
  Use math.factorial(num) function in need and import math library.
 6. Calculating simple interest .
- Simple Interest = (P x T x R)/100 Where, P is the principal amount T is the time and R is the rate
+ Simple Interest = (P x T x R)/100 Where, P is the principal amount T is the time and R is the rate.
+7. Calculating compound interest
+ A = P(1 + R/100) t 
+ Compound Interest = A – P 
+Where, 
+A is amount 
+P is the principal amount 
+R is the rate and 
+T is the time span
